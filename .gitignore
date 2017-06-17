@@ -1,0 +1,14 @@
+*~
+build/
+*.img
+*.map
+*.list
+*.log
+*.o
+.idea/
+.vscode/
+nbproject/
+slide
+*.bak
+test/
+*.jar
